@@ -124,6 +124,7 @@ Updates in [this thread on our forum](https://forum.gwei.cz/t/defi-toolkit-sezna
 
 ## Meta Transactions
 - [`furucombo.app`](https://furucombo.app/) - transaction "combo"
+- [`OGP Bulk Sender`](https://offgridplatform.com/apps/bulk-sender) - send ETH, ERC-20, ERC-721, and ERC-1155 in batches
 - [`disperse.app`](https://disperse.app/) - distribute ether or tokens to multiple addresses
 - [`bulksender.app`](https://bulksender.app/)
 - [erc20-meta-token](https://github.com/arcadeum/erc20-meta-token) - wrapper for meta-transaction with any ERC-20
